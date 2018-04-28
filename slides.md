@@ -1,41 +1,83 @@
-## Demo 1
-Slide 1
+## ¿De NO que va esta charla?
+
+* Como hackear bancos
+* Como hackearle el facebook a tu $persona.
+* Como hackearle el movil a tus familiares,
+* Como conseguir tarjetas de credito ilegales.
+* Como aprender a programar.
 
 ---
 
-## Demo 2
-Slide 3
+## ¿De que si va?
+
+* No te haras millonario al instante con esta charla.
+* Va de aprender a aprender.
+* Va de algo de cultura hacker.
+* La verdad es que yo tampoco se de que va.
 
 ---
 
-## Demo 3
-Slide 3.1
+## Como ser un hacker: Definiciones
+
+* El diccionario hacker (198x):
+  * "Es todo individuo que se dedica a programar de forma entusiasta, o sea un experto entusiasta de cualquier tipo"
 
 --
 
-## Demo 3
-Slide 3.2
+* RAE:
+  * "persona experta en el manejo de computadoras, que se ocupa de la seguridad de los sistemas y de desarrollar técnicas de mejora"
 
-```rust
-fn main() {
-    // A simple integer calculator:
-    // `+` or `-` means add or subtract by 1
-    // `*` or `/` means multiply or divide by 2
+--
 
-    let program = "+ + * - /";
-    let mut accumulator = 0;
+* Etimologia:
+  * Persona que utiliza una herramienta rudimentaria para realizar una tarea.
 
-    for token in program.chars() {
-        match token {
-            '+' => accumulator += 1,
-            '-' => accumulator -= 1,
-            '*' => accumulator *= 2,
-            '/' => accumulator /= 2,
-            _ => { /* ignore everything else */ }
-        }
-    }
+--
 
-    println!("The program \"{}\" calculates the value {}",
-              program, accumulator);
-}
+* Mi filosofia:
+  * No sabes nada, pero siempre puedes aprender a hacer algo.
+
+---
+
+## Como ser un Hacker: Manos a la obra
+
+```text
+    To follow the path:
+    look to the master,
+    follow the master,
+    walk with the master,
+    see through the master,
+    become the master.
 ```
+
+--
+
+## Como ser un Hacker: Manos a la obra
+
+```text
+    Sigue el camino:
+    mira al maestro,
+    sigue al maestro,
+    camina con el maestro,
+    ve atravez del maestro,
+    conviertete en el maestro.
+```
+
+---
+
+### Donde aprender: Conocimiento Cognitivo
+
+ * Metaconocimientos que describen conocimientos.
+ * Metaconocimientos sobre la utilización o aplicación de conocimientos.
+ * Metaconocimientos para descubrir conocimientos.
+ * Metaconocimientos sobre la confianza o veracidad de un conocimiento particular.
+ * Metaconocimientos sobre el conocimiento que otros tienen.
+
+---
+
+### Donde aprender: Recursos
+ * Listas awesome 
+ ![Awesome courses](img/courses.png)
+
+--
+
